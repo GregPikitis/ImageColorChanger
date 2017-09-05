@@ -1,5 +1,6 @@
 # ImageColorChanger
-Changes all of the colors in a select image to one chosen hex code
+Changes all of the colors in a select image to one chosen hex code.
+I use this to change icon colors with transparent backgrounds. Works on my machine.
 
 ### Dependancies:
 - [ImageMagick](https://www.imagemagick.org/script/index.php)
