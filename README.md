@@ -7,5 +7,5 @@ I use this to change icon colors with transparent backgrounds. Works on my machi
 - [Python 3](https://www.python.org/)
 - Understanding that this is basically just a script to run ImageMagick commands
 
-Image of output when I recently used this...
+Output when being run...
 ![Output Text](https://github.com/GregPikitis/ImageColorChanger/blob/master/output.png "Output Text")
