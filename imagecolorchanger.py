@@ -53,7 +53,7 @@ def main():
 		i = str(i)
 		os.system('magick convert ' + i + ' -fill "' + newcolor + '" -colorize 100% ' + i)
 
-	print("Complete. See ReadMe if you have difficulties")
+	print("Complete. See ReadMe if you have difficulties.")
 	
 	time.sleep(2)
 
